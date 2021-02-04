@@ -13,7 +13,7 @@ namespace visualstudio
     {
         public static void Main(string[] args)
         {
-            //new change
+            //new changes
             CreateHostBuilder(args).Build().Run();
         }
 
